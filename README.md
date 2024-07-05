@@ -2,8 +2,10 @@
 fisiks. 
 
 ### Preview
-<center><img src="./preview/cloth.gif" alt="Cloth Sim" width="800" /></center>
-<center><img src="./preview/pendulum.gif" alt="Pendulum Sim" width="800" /></center>
+<center>
+<span><img src="./preview/cloth.gif" alt="Cloth Sim" width="400" /></span>
+<span><img src="./preview/pendulum.gif" alt="Pendulum Sim" width="400" /></span>
+</center>
 
 ### Quick Start
 ```
